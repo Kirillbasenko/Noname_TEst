@@ -1,0 +1,5 @@
+export const MAIN_ROUTE = "/"
+export const LOGIN_ROUTE = "/auth"
+export const SHOP_ROUTE = "/products"
+export const PRODUCT_ROUTE = "/products"
+export const PERSONAL_ROUTE = "/personal"
