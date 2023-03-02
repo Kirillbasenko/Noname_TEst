@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Noname_TEst/static/js/main.dcb250aa.js",
+    "static/media/book.jpg": "/Noname_TEst/static/media/book.c22dd0c2d2b51e00e71a.jpg",
+    "index.html": "/Noname_TEst/index.html",
+    "main.dcb250aa.js.map": "/Noname_TEst/static/js/main.dcb250aa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dcb250aa.js"
+  ]
+}
